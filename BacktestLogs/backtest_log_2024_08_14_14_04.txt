@@ -1,0 +1,114 @@
+Backtesting Log 2022-08-15 to 2024-08-14 
+
+
+Date: 2022-09-14 ---------- 
+Sold 19 shares of RELIANCE
+Sold 33 shares of HDFCBANK
+Sold 6 shares of BAJFINANCE
+Sold 7 shares of ULTRACEMCO
+Sold 161 shares of BIOCON
+
+Date: 2022-10-14 ---------- 
+
+Date: 2022-11-13 ---------- 
+
+Date: 2022-12-13 ---------- 
+Sold 26 shares of LT
+Sold 14 shares of ASIANPAINT
+Sold 19 shares of TITAN
+Sold 18 shares of PIDILITIND
+
+Date: 2023-01-12 ---------- 
+
+Date: 2023-02-11 ---------- 
+Bought 23 shares of LT
+Sold 68 shares of BHARTIARTL
+
+Date: 2023-03-13 ---------- 
+
+Date: 2023-04-12 ---------- 
+Bought 20 shares of LT
+
+Date: 2023-05-12 ---------- 
+Bought 19 shares of LT
+Bought 7 shares of BAJFINANCE
+Bought 17 shares of TITAN
+Bought 6 shares of ULTRACEMCO
+Bought 58 shares of BHARTIARTL
+Bought 19 shares of PIDILITIND
+
+Date: 2023-06-11 ---------- 
+Bought 15 shares of LT
+Bought 11 shares of TITAN
+Bought 36 shares of BHARTIARTL
+
+Date: 2023-07-11 ---------- 
+Bought 10 shares of LT
+Sold 7 shares of BAJFINANCE
+Sold 19 shares of PIDILITIND
+
+Date: 2023-08-10 ---------- 
+Bought 13 shares of LT
+Bought 4 shares of ULTRACEMCO
+
+Date: 2023-09-09 ---------- 
+Bought 9 shares of LT
+
+Date: 2023-10-09 ---------- 
+Bought 9 shares of LT
+
+Date: 2023-11-08 ---------- 
+Bought 7 shares of LT
+Bought 6 shares of TITAN
+
+Date: 2023-12-08 ---------- 
+Bought 5 shares of LT
+Bought 14 shares of ASIANPAINT
+Bought 5 shares of TITAN
+Bought 1 shares of ULTRACEMCO
+Bought 15 shares of BHARTIARTL
+
+Date: 2024-01-07 ---------- 
+Bought 17 shares of RELIANCE
+Bought 4 shares of LT
+Bought 3 shares of TITAN
+Bought 1 shares of ULTRACEMCO
+Bought 9 shares of BHARTIARTL
+
+Date: 2024-02-06 ---------- 
+Bought 3 shares of RELIANCE
+Bought 2 shares of LT
+Bought 2 shares of TITAN
+Bought 6 shares of BHARTIARTL
+Bought 180 shares of BIOCON
+
+Date: 2024-03-07 ---------- 
+Bought 2 shares of RELIANCE
+Bought 1 shares of LT
+Bought 1 shares of TITAN
+Bought 4 shares of BHARTIARTL
+Bought 16 shares of PIDILITIND
+Bought 17 shares of BIOCON
+
+Date: 2024-04-06 ---------- 
+Bought 1 shares of LT
+Sold 14 shares of ASIANPAINT
+Bought 5 shares of BHARTIARTL
+
+Date: 2024-05-06 ---------- 
+Bought 1 shares of LT
+Bought 5 shares of BHARTIARTL
+
+Date: 2024-06-05 ---------- 
+Bought 1 shares of LT
+Bought 4 shares of BHARTIARTL
+Bought 1 shares of PIDILITIND
+Bought 14 shares of BIOCON
+
+Date: 2024-07-05 ---------- 
+Bought 1 shares of LT
+Bought 2 shares of BHARTIARTL
+Bought 10 shares of BIOCON
+
+Date: 2024-08-04 ---------- 
+Bought 2 shares of BHARTIARTL
