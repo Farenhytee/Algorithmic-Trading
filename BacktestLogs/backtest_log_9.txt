@@ -141,3 +141,238 @@ Bought 2 shares of TITAN
 Bought 1 shares of PIDILITIND
 
 Date: 2015-04-14 ---------- 
+Backtesting Log 2022-08-16 to 2024-08-15 
+
+
+Date: 2022-09-15 ---------- 
+Sold 3 shares of RELIANCE
+Sold 5 shares of LT
+Sold 6 shares of HDFCBANK
+Sold 1 shares of BAJFINANCE
+Sold 2 shares of ASIANPAINT
+Sold 1 shares of ULTRACEMCO
+Sold 32 shares of BIOCON
+
+Date: 2022-10-15 ---------- 
+
+Date: 2022-11-14 ---------- 
+
+Date: 2022-12-14 ---------- 
+Sold 3 shares of TITAN
+Sold 13 shares of BHARTIARTL
+Sold 3 shares of PIDILITIND
+
+Date: 2023-01-13 ---------- 
+
+Date: 2023-02-12 ---------- 
+
+Date: 2023-03-14 ---------- 
+
+Date: 2023-04-13 ---------- 
+
+Date: 2023-05-13 ---------- 
+Bought 1 shares of BAJFINANCE
+
+Date: 2023-06-12 ---------- 
+
+Date: 2023-07-12 ---------- 
+Bought 3 shares of LT
+
+Date: 2023-08-11 ---------- 
+
+Date: 2023-09-10 ---------- 
+
+Date: 2023-10-10 ---------- 
+Sold 1 shares of BAJFINANCE
+
+Date: 2023-11-09 ---------- 
+
+Date: 2023-12-09 ---------- 
+Bought 2 shares of LT
+Bought 0 shares of ULTRACEMCO
+
+Date: 2024-01-08 ---------- 
+Bought 8 shares of BHARTIARTL
+
+Date: 2024-02-07 ---------- 
+
+Date: 2024-03-08 ---------- 
+Bought 2 shares of LT
+Bought 7 shares of BHARTIARTL
+
+Date: 2024-04-07 ---------- 
+Bought 6 shares of BHARTIARTL
+
+Date: 2024-05-07 ---------- 
+
+Date: 2024-06-06 ---------- 
+Bought 0 shares of ULTRACEMCO
+Bought 28 shares of BIOCON
+
+Date: 2024-07-06 ---------- 
+
+Date: 2024-08-05 ---------- 
+Sold 7 shares of LT
+Sold 28 shares of BIOCON
+Backtesting Log 2022-08-16 to 2024-08-15 
+
+
+Date: 2022-09-15 ---------- 
+Sold 3 shares of RELIANCE
+Sold 5 shares of LT
+Sold 6 shares of HDFCBANK
+Sold 1 shares of BAJFINANCE
+Sold 2 shares of ASIANPAINT
+Sold 1 shares of ULTRACEMCO
+Sold 32 shares of BIOCON
+
+Date: 2022-10-15 ---------- 
+
+Date: 2022-11-14 ---------- 
+
+Date: 2022-12-14 ---------- 
+Sold 3 shares of TITAN
+Sold 13 shares of BHARTIARTL
+Sold 3 shares of PIDILITIND
+
+Date: 2023-01-13 ---------- 
+
+Date: 2023-02-12 ---------- 
+
+Date: 2023-03-14 ---------- 
+
+Date: 2023-04-13 ---------- 
+
+Date: 2023-05-13 ---------- 
+Bought 1 shares of BAJFINANCE
+
+Date: 2023-06-12 ---------- 
+
+Date: 2023-07-12 ---------- 
+Bought 3 shares of LT
+
+Date: 2023-08-11 ---------- 
+
+Date: 2023-09-10 ---------- 
+
+Date: 2023-10-10 ---------- 
+Sold 1 shares of BAJFINANCE
+
+Date: 2023-11-09 ---------- 
+
+Date: 2023-12-09 ---------- 
+Bought 2 shares of LT
+Bought 0 shares of ULTRACEMCO
+
+Date: 2024-01-08 ---------- 
+Bought 8 shares of BHARTIARTL
+
+Date: 2024-02-07 ---------- 
+
+Date: 2024-03-08 ---------- 
+Bought 2 shares of LT
+Bought 7 shares of BHARTIARTL
+
+Date: 2024-04-07 ---------- 
+Bought 6 shares of BHARTIARTL
+
+Date: 2024-05-07 ---------- 
+
+Date: 2024-06-06 ---------- 
+Bought 0 shares of ULTRACEMCO
+Bought 28 shares of BIOCON
+
+Date: 2024-07-06 ---------- 
+
+Date: 2024-08-05 ---------- 
+Sold 7 shares of LT
+Sold 28 shares of BIOCON
+Backtesting Log 2022-08-16 to 2024-08-15 
+
+
+Date: 2022-09-15 ---------- 
+Sold 3 shares of RELIANCE
+Sold 5 shares of LT
+Sold 6 shares of HDFCBANK
+Sold 13 shares of AXISBANK
+Sold 1 shares of MARUTI
+Sold 6 shares of INFY
+Sold 1 shares of ULTRACEMCO
+Sold 59 shares of POWERGRID
+
+Date: 2022-10-15 ---------- 
+Bought 11 shares of AXISBANK
+Sold 172 shares of ZOMATO
+
+Date: 2022-11-14 ---------- 
+
+Date: 2022-12-14 ---------- 
+Sold 13 shares of BHARTIARTL
+
+Date: 2023-01-13 ---------- 
+Sold 11 shares of AXISBANK
+
+Date: 2023-02-12 ---------- 
+
+Date: 2023-03-14 ---------- 
+
+Date: 2023-04-13 ---------- 
+
+Date: 2023-05-13 ---------- 
+
+Date: 2023-06-12 ---------- 
+Bought 133 shares of ZOMATO
+
+Date: 2023-07-12 ---------- 
+Bought 3 shares of LT
+Bought 128 shares of ZOMATO
+
+Date: 2023-08-11 ---------- 
+Bought 99 shares of ZOMATO
+
+Date: 2023-09-10 ---------- 
+
+Date: 2023-10-10 ---------- 
+
+Date: 2023-11-09 ---------- 
+Bought 73 shares of ZOMATO
+
+Date: 2023-12-09 ---------- 
+Bought 2 shares of LT
+Bought 0 shares of ULTRACEMCO
+Bought 42 shares of POWERGRID
+Bought 57 shares of ZOMATO
+
+Date: 2024-01-08 ---------- 
+Bought 8 shares of BHARTIARTL
+Bought 24 shares of POWERGRID
+Bought 41 shares of ZOMATO
+
+Date: 2024-02-07 ---------- 
+Bought 31 shares of ZOMATO
+
+Date: 2024-03-08 ---------- 
+Bought 1 shares of LT
+Bought 0 shares of MARUTI
+Bought 3 shares of BHARTIARTL
+Bought 22 shares of ZOMATO
+
+Date: 2024-04-07 ---------- 
+Bought 2 shares of BHARTIARTL
+Bought 11 shares of POWERGRID
+Bought 15 shares of ZOMATO
+
+Date: 2024-05-07 ---------- 
+
+Date: 2024-06-06 ---------- 
+Bought 0 shares of ULTRACEMCO
+Bought 13 shares of ZOMATO
+
+Date: 2024-07-06 ---------- 
+Bought 5 shares of INFY
+Bought 7 shares of POWERGRID
+Bought 9 shares of ZOMATO
+
+Date: 2024-08-05 ---------- 
+Sold 6 shares of LT
+Bought 15 shares of ZOMATO

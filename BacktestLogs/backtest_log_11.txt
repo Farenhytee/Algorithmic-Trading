@@ -1,0 +1,246 @@
+Backtesting Log 2022-08-16 to 2024-08-15 
+
+
+Date: 2022-09-15 ---------- 
+Sold 24 shares of ADANIPOWER
+Bought 1 shares of TVSMOTOR
+Sold 4 shares of ADANIGREEN
+Sold 3 shares of PIDILITIND
+Sold 59 shares of POWERGRID
+
+Date: 2022-10-15 ---------- 
+Bought 3 shares of TVSMOTOR
+Sold 172 shares of ZOMATO
+Sold 10 shares of GODREJCP
+Bought 3 shares of TRENT
+
+Date: 2022-11-14 ---------- 
+Bought 3 shares of PIDILITIND
+
+Date: 2022-12-14 ---------- 
+Sold 3 shares of ABB
+Sold 3 shares of PIDILITIND
+Sold 10 shares of TRENT
+
+Date: 2023-01-13 ---------- 
+
+Date: 2023-02-12 ---------- 
+Bought 3 shares of ABB
+Bought 2 shares of SIEMENS
+
+Date: 2023-03-14 ---------- 
+Bought 52 shares of ADANIPOWER
+Sold 14 shares of TVSMOTOR
+Bought 11 shares of ADANIGREEN
+
+Date: 2023-04-13 ---------- 
+Bought 39 shares of ADANIPOWER
+Bought 154 shares of ZOMATO
+
+Date: 2023-05-13 ---------- 
+Bought 1 shares of ABB
+Bought 7 shares of TVSMOTOR
+Sold 11 shares of ADANIGREEN
+Bought 9 shares of GODREJCP
+Bought 6 shares of TRENT
+
+Date: 2023-06-12 ---------- 
+Bought 1 shares of ABB
+Bought 108 shares of ZOMATO
+Bought 4 shares of TRENT
+
+Date: 2023-07-12 ---------- 
+Bought 24 shares of ADANIPOWER
+Bought 9 shares of ADANIGREEN
+Bought 70 shares of ZOMATO
+Sold 9 shares of GODREJCP
+
+Date: 2023-08-11 ---------- 
+Bought 19 shares of ADANIPOWER
+Sold 9 shares of ADANIGREEN
+Bought 66 shares of ZOMATO
+Bought 2 shares of TRENT
+
+Date: 2023-09-10 ---------- 
+Bought 14 shares of ADANIPOWER
+Bought 3 shares of TVSMOTOR
+Bought 44 shares of ZOMATO
+Bought 1 shares of TRENT
+Sold 5 shares of SIEMENS
+
+Date: 2023-10-10 ---------- 
+Bought 54 shares of ZOMATO
+
+Date: 2023-11-09 ---------- 
+Bought 11 shares of ADANIPOWER
+Bought 2 shares of TVSMOTOR
+Bought 35 shares of ZOMATO
+Bought 1 shares of TRENT
+
+Date: 2023-12-09 ---------- 
+Bought 6 shares of ADANIPOWER
+Bought 1 shares of TVSMOTOR
+Bought 6 shares of ADANIGREEN
+Bought 24 shares of ZOMATO
+Bought 42 shares of POWERGRID
+
+Date: 2024-01-08 ---------- 
+Bought 4 shares of ADANIPOWER
+Bought 1 shares of ADANIGREEN
+Bought 16 shares of ZOMATO
+Bought 8 shares of POWERGRID
+
+Date: 2024-02-07 ---------- 
+Bought 1 shares of ADANIGREEN
+Bought 10 shares of ZOMATO
+Bought 2 shares of SIEMENS
+Bought 5 shares of POWERGRID
+
+Date: 2024-03-08 ---------- 
+Bought 3 shares of PIDILITIND
+Bought 7 shares of ZOMATO
+
+Date: 2024-04-07 ---------- 
+Bought 2 shares of ADANIPOWER
+Sold 13 shares of TVSMOTOR
+Bought 2 shares of ADANIGREEN
+Bought 18 shares of ZOMATO
+Bought 10 shares of POWERGRID
+
+Date: 2024-05-07 ---------- 
+Bought 3 shares of ADANIPOWER
+Sold 3 shares of PIDILITIND
+
+Date: 2024-06-06 ---------- 
+Bought 4 shares of TVSMOTOR
+Sold 10 shares of ADANIGREEN
+Bought 26 shares of ZOMATO
+
+Date: 2024-07-06 ---------- 
+Bought 20 shares of ZOMATO
+
+Date: 2024-08-05 ---------- 
+Bought 16 shares of ZOMATO
+Backtesting Log 2022-08-16 to 2024-08-15 
+
+
+Date: 2022-09-15 ---------- 
+Sold 24 shares of ADANIPOWER
+Bought 1 shares of TVSMOTOR
+Sold 4 shares of ADANIGREEN
+Sold 3 shares of PIDILITIND
+Sold 59 shares of POWERGRID
+
+Date: 2022-10-15 ---------- 
+Bought 3 shares of TVSMOTOR
+Sold 172 shares of ZOMATO
+Sold 10 shares of GODREJCP
+Bought 3 shares of TRENT
+
+Date: 2022-11-14 ---------- 
+Bought 3 shares of PIDILITIND
+
+Date: 2022-12-14 ---------- 
+Sold 3 shares of ABB
+Sold 3 shares of PIDILITIND
+Sold 10 shares of TRENT
+
+Date: 2023-01-13 ---------- 
+
+Date: 2023-02-12 ---------- 
+Bought 3 shares of ABB
+Bought 2 shares of SIEMENS
+
+Date: 2023-03-14 ---------- 
+Bought 52 shares of ADANIPOWER
+Sold 14 shares of TVSMOTOR
+Bought 11 shares of ADANIGREEN
+
+Date: 2023-04-13 ---------- 
+Bought 39 shares of ADANIPOWER
+Bought 154 shares of ZOMATO
+
+Date: 2023-05-13 ---------- 
+Bought 1 shares of ABB
+Bought 7 shares of TVSMOTOR
+Sold 11 shares of ADANIGREEN
+Bought 9 shares of GODREJCP
+Bought 6 shares of TRENT
+
+Date: 2023-06-12 ---------- 
+Bought 1 shares of ABB
+Bought 108 shares of ZOMATO
+Bought 4 shares of TRENT
+
+Date: 2023-07-12 ---------- 
+Bought 24 shares of ADANIPOWER
+Bought 9 shares of ADANIGREEN
+Bought 70 shares of ZOMATO
+Sold 9 shares of GODREJCP
+
+Date: 2023-08-11 ---------- 
+Bought 19 shares of ADANIPOWER
+Sold 9 shares of ADANIGREEN
+Bought 66 shares of ZOMATO
+Bought 2 shares of TRENT
+
+Date: 2023-09-10 ---------- 
+Bought 14 shares of ADANIPOWER
+Bought 3 shares of TVSMOTOR
+Bought 44 shares of ZOMATO
+Bought 1 shares of TRENT
+Sold 5 shares of SIEMENS
+
+Date: 2023-10-10 ---------- 
+Bought 54 shares of ZOMATO
+
+Date: 2023-11-09 ---------- 
+Bought 11 shares of ADANIPOWER
+Bought 2 shares of TVSMOTOR
+Bought 35 shares of ZOMATO
+Bought 1 shares of TRENT
+
+Date: 2023-12-09 ---------- 
+Bought 6 shares of ADANIPOWER
+Bought 1 shares of TVSMOTOR
+Bought 6 shares of ADANIGREEN
+Bought 24 shares of ZOMATO
+Bought 42 shares of POWERGRID
+
+Date: 2024-01-08 ---------- 
+Bought 4 shares of ADANIPOWER
+Bought 1 shares of ADANIGREEN
+Bought 16 shares of ZOMATO
+Bought 8 shares of POWERGRID
+
+Date: 2024-02-07 ---------- 
+Bought 1 shares of ADANIGREEN
+Bought 10 shares of ZOMATO
+Bought 2 shares of SIEMENS
+Bought 5 shares of POWERGRID
+
+Date: 2024-03-08 ---------- 
+Bought 3 shares of PIDILITIND
+Bought 7 shares of ZOMATO
+
+Date: 2024-04-07 ---------- 
+Bought 2 shares of ADANIPOWER
+Sold 13 shares of TVSMOTOR
+Bought 2 shares of ADANIGREEN
+Bought 18 shares of ZOMATO
+Bought 10 shares of POWERGRID
+
+Date: 2024-05-07 ---------- 
+Bought 3 shares of ADANIPOWER
+Sold 3 shares of PIDILITIND
+
+Date: 2024-06-06 ---------- 
+Bought 4 shares of TVSMOTOR
+Sold 10 shares of ADANIGREEN
+Bought 26 shares of ZOMATO
+
+Date: 2024-07-06 ---------- 
+Bought 20 shares of ZOMATO
+
+Date: 2024-08-05 ---------- 
+Bought 16 shares of ZOMATO
