@@ -1,0 +1,516 @@
+Backtesting Log 2014-12-03 to 2024-11-30 
+
+
+Date: 2015-01-02 ---------- 
+Bought 1 shares of TVSMOTOR
+
+Date: 2015-02-01 ---------- 
+Bought 1 shares of TVSMOTOR
+Sold 67 shares of TRENT
+Bought 2 shares of AXISBANK
+Bought 2 shares of HDFCBANK
+
+Date: 2015-03-03 ---------- 
+Sold 39 shares of TVSMOTOR
+Bought 3 shares of PIDILITIND
+Sold 9 shares of ABB
+Sold 3 shares of ULTRACEMCO
+Sold 30 shares of GODREJCP
+Sold 23 shares of HDFCBANK
+
+Date: 2015-04-02 ---------- 
+
+Date: 2015-05-02 ---------- 
+Sold 21 shares of PIDILITIND
+Bought 3 shares of ULTRACEMCO
+
+Date: 2015-06-01 ---------- 
+Sold 21 shares of AXISBANK
+Bought 24 shares of GODREJCP
+
+Date: 2015-07-01 ---------- 
+Bought 17 shares of GODREJCP
+Sold 11 shares of COLPAL
+
+Date: 2015-07-31 ---------- 
+Bought 18 shares of GODREJCP
+
+Date: 2015-08-30 ---------- 
+Sold 3 shares of ULTRACEMCO
+Sold 3 shares of MARUTI
+
+Date: 2015-09-29 ---------- 
+Bought 2 shares of MARUTI
+Sold 59 shares of GODREJCP
+
+Date: 2015-10-29 ---------- 
+Bought 37 shares of TVSMOTOR
+Bought 10 shares of ABB
+
+Date: 2015-11-28 ---------- 
+Bought 39 shares of TVSMOTOR
+Sold 10 shares of ABB
+Bought 61 shares of TRENT
+
+Date: 2015-12-28 ---------- 
+
+Date: 2016-01-27 ---------- 
+Sold 61 shares of TRENT
+Sold 2 shares of MARUTI
+
+Date: 2016-02-26 ---------- 
+Sold 76 shares of TVSMOTOR
+
+Date: 2016-03-27 ---------- 
+Bought 30 shares of TVSMOTOR
+Bought 9 shares of ABB
+Bought 3 shares of ULTRACEMCO
+Bought 22 shares of AXISBANK
+Bought 21 shares of GODREJCP
+
+Date: 2016-04-26 ---------- 
+Sold 21 shares of GODREJCP
+
+Date: 2016-05-26 ---------- 
+Sold 30 shares of TVSMOTOR
+Bought 14 shares of PIDILITIND
+Sold 9 shares of ABB
+
+Date: 2016-06-25 ---------- 
+Bought 18 shares of GODREJCP
+
+Date: 2016-07-25 ---------- 
+Bought 4 shares of ULTRACEMCO
+Bought 31 shares of AXISBANK
+Bought 2 shares of MARUTI
+
+Date: 2016-08-24 ---------- 
+Bought 3 shares of ULTRACEMCO
+Bought 23 shares of AXISBANK
+Bought 2 shares of MARUTI
+Sold 18 shares of GODREJCP
+
+Date: 2016-09-23 ---------- 
+Bought 27 shares of TVSMOTOR
+Bought 42 shares of TRENT
+Sold 76 shares of AXISBANK
+Bought 3 shares of MARUTI
+
+Date: 2016-10-23 ---------- 
+Bought 37 shares of TVSMOTOR
+Bought 2 shares of MARUTI
+
+Date: 2016-11-22 ---------- 
+Sold 64 shares of TVSMOTOR
+Sold 14 shares of PIDILITIND
+Sold 10 shares of ULTRACEMCO
+Sold 42 shares of TRENT
+Sold 9 shares of MARUTI
+
+Date: 2016-12-22 ---------- 
+
+Date: 2017-01-21 ---------- 
+
+Date: 2017-02-20 ---------- 
+Bought 40 shares of TRENT
+
+Date: 2017-03-22 ---------- 
+Bought 93 shares of TRENT
+
+Date: 2017-04-21 ---------- 
+Bought 20 shares of TVSMOTOR
+Bought 9 shares of ABB
+Bought 1 shares of MARUTI
+
+Date: 2017-05-21 ---------- 
+Bought 41 shares of TVSMOTOR
+Sold 133 shares of TRENT
+Bought 3 shares of MARUTI
+
+Date: 2017-06-20 ---------- 
+Bought 9 shares of COLPAL
+
+Date: 2017-07-20 ---------- 
+Bought 2 shares of MARUTI
+Bought 11 shares of HDFCBANK
+
+Date: 2017-08-19 ---------- 
+Sold 9 shares of ABB
+
+Date: 2017-09-18 ---------- 
+Bought 31 shares of TVSMOTOR
+Sold 9 shares of COLPAL
+
+Date: 2017-10-18 ---------- 
+Bought 27 shares of TVSMOTOR
+Bought 2 shares of ULTRACEMCO
+
+Date: 2017-11-17 ---------- 
+Sold 2 shares of ULTRACEMCO
+
+Date: 2017-12-17 ---------- 
+Bought 24 shares of TVSMOTOR
+Bought 1 shares of MARUTI
+
+Date: 2018-01-16 ---------- 
+Sold 143 shares of TVSMOTOR
+
+Date: 2018-02-15 ---------- 
+Sold 7 shares of MARUTI
+Sold 11 shares of HDFCBANK
+
+Date: 2018-03-17 ---------- 
+Bought 8 shares of ABB
+
+Date: 2018-04-16 ---------- 
+Bought 9 shares of PIDILITIND
+Sold 8 shares of ABB
+
+Date: 2018-05-16 ---------- 
+Bought 29 shares of PIDILITIND
+
+Date: 2018-06-15 ---------- 
+Sold 38 shares of PIDILITIND
+
+Date: 2018-07-15 ---------- 
+
+Date: 2018-08-14 ---------- 
+Bought 27 shares of TRENT
+Bought 15 shares of AXISBANK
+Bought 10 shares of GODREJCP
+
+Date: 2018-09-13 ---------- 
+Bought 9 shares of ABB
+Sold 27 shares of TRENT
+Sold 10 shares of GODREJCP
+
+Date: 2018-10-13 ---------- 
+Sold 9 shares of ABB
+Sold 15 shares of AXISBANK
+
+Date: 2018-11-12 ---------- 
+Bought 8 shares of PIDILITIND
+
+Date: 2018-12-12 ---------- 
+Sold 8 shares of PIDILITIND
+Bought 27 shares of TRENT
+Bought 7 shares of COLPAL
+
+Date: 2019-01-11 ---------- 
+Bought 13 shares of AXISBANK
+Sold 7 shares of COLPAL
+
+Date: 2019-02-10 ---------- 
+Sold 27 shares of TRENT
+
+Date: 2019-03-12 ---------- 
+Bought 8 shares of PIDILITIND
+Bought 52 shares of AXISBANK
+Bought 8 shares of HDFCBANK
+
+Date: 2019-04-11 ---------- 
+Bought 2 shares of ULTRACEMCO
+
+Date: 2019-05-11 ---------- 
+
+Date: 2019-06-10 ---------- 
+Sold 8 shares of PIDILITIND
+Bought 22 shares of TRENT
+
+Date: 2019-07-10 ---------- 
+Sold 22 shares of TRENT
+Sold 65 shares of AXISBANK
+Sold 8 shares of HDFCBANK
+
+Date: 2019-08-09 ---------- 
+Bought 7 shares of PIDILITIND
+Sold 2 shares of ULTRACEMCO
+Bought 21 shares of TRENT
+
+Date: 2019-09-08 ---------- 
+Bought 23 shares of TVSMOTOR
+Bought 8 shares of ABB
+Bought 91 shares of TRENT
+Bought 14 shares of GODREJCP
+Bought 6 shares of COLPAL
+
+Date: 2019-10-08 ---------- 
+Bought 82 shares of TVSMOTOR
+Sold 7 shares of PIDILITIND
+Sold 8 shares of ABB
+Bought 70 shares of TRENT
+
+Date: 2019-11-07 ---------- 
+Sold 105 shares of TVSMOTOR
+Sold 14 shares of GODREJCP
+
+Date: 2019-12-07 ---------- 
+Bought 7 shares of ABB
+
+Date: 2020-01-06 ---------- 
+Bought 67 shares of TRENT
+Sold 6 shares of COLPAL
+
+Date: 2020-02-05 ---------- 
+Sold 7 shares of ABB
+Bought 51 shares of TRENT
+
+Date: 2020-03-06 ---------- 
+Sold 300 shares of TRENT
+
+Date: 2020-04-05 ---------- 
+Bought 6 shares of PIDILITIND
+Bought 6 shares of COLPAL
+
+Date: 2020-05-05 ---------- 
+Sold 6 shares of COLPAL
+
+Date: 2020-06-04 ---------- 
+Sold 6 shares of PIDILITIND
+Bought 16 shares of TRENT
+
+Date: 2020-07-04 ---------- 
+Sold 16 shares of TRENT
+
+Date: 2020-08-03 ---------- 
+Bought 23 shares of TVSMOTOR
+Bought 15 shares of TRENT
+Bought 20 shares of AXISBANK
+Bought 1 shares of MARUTI
+Bought 8 shares of HDFCBANK
+
+Date: 2020-09-02 ---------- 
+Bought 109 shares of TVSMOTOR
+Bought 68 shares of TRENT
+Sold 20 shares of AXISBANK
+Bought 13 shares of GODREJCP
+
+Date: 2020-10-02 ---------- 
+Bought 2 shares of ULTRACEMCO
+Bought 20 shares of AXISBANK
+Sold 13 shares of GODREJCP
+Bought 36 shares of HDFCBANK
+
+Date: 2020-11-01 ---------- 
+Bought 8 shares of ULTRACEMCO
+Sold 83 shares of TRENT
+Bought 82 shares of AXISBANK
+
+Date: 2020-12-01 ---------- 
+Bought 5 shares of PIDILITIND
+Bought 8 shares of ABB
+Bought 6 shares of ULTRACEMCO
+Bought 4 shares of MARUTI
+
+Date: 2020-12-31 ---------- 
+Bought 17 shares of PIDILITIND
+Bought 22 shares of ABB
+Bought 4 shares of ULTRACEMCO
+
+Date: 2021-01-30 ---------- 
+Bought 40 shares of TVSMOTOR
+Bought 14 shares of ABB
+Sold 5 shares of MARUTI
+
+Date: 2021-03-01 ---------- 
+Bought 3 shares of ULTRACEMCO
+
+Date: 2021-03-31 ---------- 
+Bought 2 shares of ULTRACEMCO
+
+Date: 2021-04-30 ---------- 
+Bought 29 shares of TVSMOTOR
+Sold 44 shares of HDFCBANK
+
+Date: 2021-05-30 ---------- 
+Bought 11 shares of PIDILITIND
+Bought 12 shares of ABB
+Bought 11 shares of TRENT
+Bought 11 shares of GODREJCP
+Bought 5 shares of COLPAL
+
+Date: 2021-06-29 ---------- 
+Bought 10 shares of ABB
+
+Date: 2021-07-29 ---------- 
+Sold 201 shares of TVSMOTOR
+Sold 66 shares of ABB
+Bought 5 shares of ULTRACEMCO
+Sold 102 shares of AXISBANK
+Bought 43 shares of GODREJCP
+
+Date: 2021-08-28 ---------- 
+Bought 5 shares of ABB
+Bought 38 shares of TRENT
+Bought 32 shares of GODREJCP
+
+Date: 2021-09-27 ---------- 
+Sold 30 shares of ULTRACEMCO
+
+Date: 2021-10-27 ---------- 
+Bought 15 shares of TVSMOTOR
+Bought 25 shares of ABB
+Sold 86 shares of GODREJCP
+Sold 5 shares of COLPAL
+
+Date: 2021-11-26 ---------- 
+Sold 33 shares of PIDILITIND
+
+Date: 2021-12-26 ---------- 
+Sold 15 shares of TVSMOTOR
+Bought 29 shares of ABB
+
+Date: 2022-01-25 ---------- 
+Sold 49 shares of TRENT
+Bought 12 shares of AXISBANK
+Bought 1 shares of MARUTI
+
+Date: 2022-02-24 ---------- 
+Sold 59 shares of ABB
+Sold 12 shares of AXISBANK
+
+Date: 2022-03-26 ---------- 
+Bought 7 shares of TRENT
+Sold 1 shares of MARUTI
+
+Date: 2022-04-25 ---------- 
+
+Date: 2022-05-25 ---------- 
+Bought 13 shares of TVSMOTOR
+Bought 4 shares of ABB
+Sold 7 shares of TRENT
+
+Date: 2022-06-24 ---------- 
+Bought 94 shares of TVSMOTOR
+Sold 4 shares of ABB
+
+Date: 2022-07-24 ---------- 
+Bought 79 shares of TVSMOTOR
+Bought 4 shares of PIDILITIND
+Bought 3 shares of ABB
+Bought 1 shares of ULTRACEMCO
+Bought 7 shares of TRENT
+Bought 11 shares of GODREJCP
+
+Date: 2022-08-23 ---------- 
+Bought 66 shares of TVSMOTOR
+Bought 21 shares of PIDILITIND
+Bought 16 shares of ABB
+Bought 34 shares of TRENT
+Bought 46 shares of GODREJCP
+
+Date: 2022-09-22 ---------- 
+Bought 37 shares of TVSMOTOR
+Sold 25 shares of PIDILITIND
+Sold 1 shares of ULTRACEMCO
+
+Date: 2022-10-22 ---------- 
+Bought 37 shares of TVSMOTOR
+Bought 24 shares of TRENT
+Bought 11 shares of AXISBANK
+Sold 57 shares of GODREJCP
+
+Date: 2022-11-21 ---------- 
+Bought 3 shares of PIDILITIND
+Bought 1 shares of ULTRACEMCO
+
+Date: 2022-12-21 ---------- 
+Sold 3 shares of PIDILITIND
+Sold 19 shares of ABB
+Sold 1 shares of ULTRACEMCO
+Sold 65 shares of TRENT
+
+Date: 2023-01-20 ---------- 
+
+Date: 2023-02-19 ---------- 
+Bought 3 shares of ABB
+
+Date: 2023-03-21 ---------- 
+Sold 326 shares of TVSMOTOR
+
+Date: 2023-04-20 ---------- 
+Sold 11 shares of AXISBANK
+
+Date: 2023-05-20 ---------- 
+Bought 7 shares of TVSMOTOR
+Bought 21 shares of ABB
+Bought 6 shares of TRENT
+Bought 9 shares of GODREJCP
+
+Date: 2023-06-19 ---------- 
+Bought 18 shares of ABB
+Bought 41 shares of TRENT
+
+Date: 2023-07-19 ---------- 
+Sold 9 shares of GODREJCP
+Bought 4 shares of COLPAL
+
+Date: 2023-08-18 ---------- 
+Bought 33 shares of TRENT
+
+Date: 2023-09-17 ---------- 
+Bought 40 shares of TVSMOTOR
+Bought 26 shares of TRENT
+
+Date: 2023-10-17 ---------- 
+Bought 23 shares of COLPAL
+
+Date: 2023-11-16 ---------- 
+Bought 23 shares of TVSMOTOR
+Bought 14 shares of TRENT
+
+Date: 2023-12-16 ---------- 
+Bought 17 shares of TVSMOTOR
+Bought 0 shares of ULTRACEMCO
+Bought 10 shares of TRENT
+Bought 11 shares of COLPAL
+
+Date: 2024-01-15 ---------- 
+
+Date: 2024-02-14 ---------- 
+Bought 12 shares of TVSMOTOR
+Bought 4 shares of ABB
+Bought 5 shares of TRENT
+
+Date: 2024-03-15 ---------- 
+Bought 3 shares of PIDILITIND
+Bought 3 shares of ABB
+Bought 4 shares of TRENT
+Bought 0 shares of MARUTI
+Bought 6 shares of COLPAL
+
+Date: 2024-04-14 ---------- 
+Sold 99 shares of TVSMOTOR
+Bought 5 shares of ABB
+Bought 7 shares of TRENT
+
+Date: 2024-05-14 ---------- 
+Sold 3 shares of PIDILITIND
+Bought 3 shares of ABB
+Bought 6 shares of TRENT
+Sold 44 shares of COLPAL
+
+Date: 2024-06-13 ---------- 
+Bought 4 shares of TVSMOTOR
+Bought 4 shares of ABB
+Bought 0 shares of ULTRACEMCO
+Bought 6 shares of TRENT
+
+Date: 2024-07-13 ---------- 
+Bought 5 shares of TRENT
+Bought 2 shares of COLPAL
+
+Date: 2024-08-12 ---------- 
+Bought 9 shares of TVSMOTOR
+Bought 3 shares of TRENT
+Bought 6 shares of COLPAL
+
+Date: 2024-09-11 ---------- 
+Bought 2 shares of TRENT
+
+Date: 2024-10-11 ---------- 
+Sold 13 shares of TVSMOTOR
+Sold 61 shares of ABB
+Sold 8 shares of COLPAL
+
+Date: 2024-11-10 ---------- 
