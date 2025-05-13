@@ -106,7 +106,7 @@ The system tracks a carefully selected universe of Indian stocks, including:
 
 2. **Mid-Cap Stocks**:
    - UltraTech Cement
-   - Bharti Airtel
+   - Airtel
    - Maruti Suzuki
    - Axis Bank
 
