@@ -25,8 +25,18 @@ This system implements a sophisticated momentum-based trading strategy that anal
 ## 🚀 Quick Start
 
 ### 1. **Setup Authentication**
+
+You'll need an Upstox Account to get their API. Follow the steps here:
+https://upstox.com/trading-api/
+
+Once you receive your Client ID, API Key, and API Secret, you'll need to authorize your credentials using the code in Cell 1. After you authorise, you'll receive a 6 letter code on the redirect URL. Use that in Cell 2 to get the access token.
+
+This part has to be done manually due to regulations.
+
+Do not hardcode any of your credentials. Make a .env file or a separate .py file to store all the credentials (except the auth and access tokens, because they have an expiration time and have to be acquired again), and use f strings and imports to get them. 
+
 ```python
-# In Cell 1: Update your Upstox API credentials
+# In Cell 1 and 2: Update your Upstox API credentials
 params = {
     "code": "YOUR_AUTH_CODE",  # Get from Upstox OAuth flow
     "client_id": f"{UPSTOX_API_KEY}",
@@ -34,6 +44,8 @@ params = {
     # ... other params
 }
 ```
+
+After you get the access token, the algorithm is ready.
 
 ### 2. **Configure Strategy**
 ```python
@@ -50,11 +62,16 @@ REBALANCE_FREQUENCY = 7  # Rebalancing interval (days)
 ```
 
 ### 3. **Run Backtest**
+
+## Before running, create a folder named "BacktestLogs". The backtesting logs, including the csv files and a detailed txt file will be saved there. If you wish to change the directory, please also make the changes in the update_port method inside the backtest_v3 class, cell 5.
+
 ```python
 # Execute the backtest
 backtest_time = int(input("Enter backtest duration (Years, maximum 10): "))
 test = backtest_v3(backtest_time)
-test.update_port()  # Run the backtest
+test.old_graph() # Gets the initial portfolio chart
+test.update_port()  # Run the backtest, this will take time
+test.new_graph() #Gets the final portfolio graph
 ```
 
 ### 4. **View Results**
@@ -75,7 +92,7 @@ Upstox API → Historical Data → Performance Analysis → Stock Ranking → Po
 
 #### 1. **Data Collection (`portfolio_custom_date_m1_v3`)**
 - Fetches historical daily candle data from Upstox API
-- Configurable timeframe analysis (1 day, 7 days, 14 days by default)
+- Configurable timeframe analysis
 - Calculates percentage performance for each timeframe
 - Generates weighted performance scores
 
@@ -107,7 +124,7 @@ Upstox API → Historical Data → Performance Analysis → Stock Ranking → Po
 
 ### 📈 **Strategy Examples**
 
-#### **Day Trading Strategy**
+#### **Short Trading Strategy**
 ```python
 TIMEFRAME_1 = 1    # 1 day
 TIMEFRAME_2 = 3    # 3 days
@@ -115,7 +132,7 @@ TIMEFRAME_3 = 5    # 5 days
 WEIGHT_1 = 0.7     # Heavy weight on recent performance
 WEIGHT_2 = 0.2
 WEIGHT_3 = 0.1
-REBALANCE_FREQUENCY = 1  # Daily rebalancing
+REBALANCE_FREQUENCY = 3  # Daily rebalancing
 ```
 
 #### **Swing Trading Strategy**
@@ -171,7 +188,7 @@ final_score = (timeframe1_performance * WEIGHT_1 +
 
 ### 🏆 **Stock Selection Process**
 
-1. **Universe**: 25 carefully selected Indian stocks across sectors
+1. **Universe**: 24 carefully selected Indian stocks across sectors. You can modify to include any stocks, no limits. Analysis and backtest times will increase accordingly.
 2. **Ranking**: Stocks ranked by weighted performance score
 3. **Selection**: Top 10 performers selected for portfolio
 4. **Weighting**: Equal allocation across selected stocks
@@ -191,35 +208,25 @@ The system uses intelligent rebalancing to minimize unnecessary transactions:
    - **Buy**: Only new stocks being added
    - **Hold**: Existing stocks staying in top 10
 
-#### **Benefits**:
-- ✅ Reduces transaction costs
-- ✅ Minimizes market impact
-- ✅ Cleaner performance tracking
-- ✅ More realistic backtesting
-
 ## 📈 Performance Results
 
 ### 🏆 **Historical Backtesting Results**
 
 Based on actual backtesting logs in `BacktestLogs/` directory:
 
-#### **Recent 1-Year Backtest (2024-2025)**
+#### **Recent 5-Year Backtest (2020-2025)**
 - **Initial Investment**: ₹100,000
-- **Final Value**: ₹145,713
-- **CAGR**: 45.71%
-- **Total Return**: 45.71%
-- **Max Drawdown**: ~8% (estimated from logs)
+- **Final Value**: ₹383,814
+- **CAGR**: 30.75%
 
-#### **2-Year Backtest (2023-2025)**
+#### **10-Year Backtest (2015-2025)**
 - **Initial Investment**: ₹100,000
-- **Final Value**: ₹157,970
-- **CAGR**: 30.54%
-- **Total Return**: 57.97%
+- **Final Value**: ₹790,671
+- **CAGR**: 23.06%
 
 #### **Strategy Performance Characteristics**
 - **Volatility**: Moderate to high (momentum-based)
 - **Sharpe Ratio**: Estimated 1.2-1.8 (based on returns)
-- **Win Rate**: ~65% of rebalancing periods show positive returns
 - **Average Holding Period**: 2-4 weeks per stock
 
 ### 📊 **Performance Attribution**
@@ -237,114 +244,104 @@ Based on actual backtesting logs in `BacktestLogs/` directory:
 - **Energy**: ADANIPOWER, TATAPOWER momentum plays
 - **Consumer**: MARUTI, COLPAL defensive positions
 
-### 🎯 **Stock Universe**
+## 🔑 API Setup Guide
 
-The system tracks 25 carefully selected Indian stocks:
+### 🚀 **Upstox API Setup (Recommended)**
 
-**Large-Cap Stocks**:
-- RELIANCE, HDFCBANK, INFY, LT, AXISBANK, MARUTI, ULTRACEMCO, BHARTIARTL
+1. **Create Upstox Account**:
+   - Sign up at [Upstox Developer Console](https://upstox.com/developer/apps)
+   - Create a new app to get API credentials
 
-**Mid-Cap and Growth Stocks**:
-- ZOMATO, TRENT, ADANIGREEN, ADANIPOWER, TATAPOWER, POWERGRID, PIDILITIND, GODREJCP, COLPAL, VEDL, INDIGO, TVSMOTOR, ABB, SIEMENS
+2. **Get API Credentials**:
+   - **API Key**: Your application's API key
+   - **API Secret**: Your application's secret key
+   - **Redirect URI**: Set to `https://localhost:3000`
 
-**Additional Stocks**:
-- PFC, GAIL, IOC
+3. **Create Secrets File**:
+   ```python
+   # Create: Secrets/upstox_secrets.py
+   UPSTOX_API_KEY = "your_api_key_here"
+   UPSTOX_API_SECRET = "your_api_secret_here"
+   ```
 
-## 🛠️ Technical Requirements
+4. **OAuth Flow**:
+   - Run Cell 1 to get authorization URL
+   - Visit URL, login, and copy the authorization code
+   - Paste code in Cell 1 and run to get access token
 
-### 💻 **System Requirements**
+### 🔄 **Using Other APIs**
 
-#### **Hardware**:
-- **RAM**: Minimum 4GB, Recommended 8GB+
-- **Storage**: 1GB free space for logs and data
-- **Internet**: Stable connection for API calls
+To use a different API provider, modify these components:
 
-#### **Software**:
-- **Python**: 3.7 or higher
-- **Jupyter**: Notebook or JupyterLab environment
-- **Operating System**: Windows, macOS, or Linux
+#### **1. Authentication (Cells 1-2)**:
+Replace Upstox OAuth with your API's authentication method
 
-### 📦 **Python Dependencies**
-
+#### **2. Data Fetching Function**:
+In `portfolio_custom_date_m1_v3()`, update:
 ```python
-# Core libraries
-import numpy as np
-import pandas as pd
-import requests
-import math
-import json
-import statistics
-import pprint
-import scipy
-from datetime import datetime, timedelta
-import matplotlib.pyplot as plt
-import time
-from tqdm import tqdm
+# Change this URL format:
+url2 = f'https://api.upstox.com/v3/historical-candle/{key}/days/1/{to_date}/{from_date}'
+
+# To your API's endpoint format, example:
+url2 = f'https://your-api.com/historical/{symbol}?from={from_date}&to={to_date}'
 ```
 
-#### **Installation**:
+#### **3. Response Structure**:
+Update data parsing based on your API's response format:
+```python
+# Upstox format: response2["data"]["candles"]
+# Your API format: response2["your_data_key"]
+```
+
+#### **4. Stock Symbols**:
+Update the `keys` dictionary with your API's symbol format:
+```python
+keys = {"YOUR_SYMBOL_FORMAT": "STOCK_NAME", ...}
+```
+
+### 📦 **Installation**
+
 ```bash
-pip install numpy pandas requests matplotlib scipy tqdm
+pip install numpy pandas requests matplotlib tqdm
 ```
 
-## 📁 File Structure
+## 📁 Project Structure
 
 ```
 Algorithmic-Trading/
-├── 📓 StratOne.ipynb              # Main trading system (CURRENT)
-├── 📓 trading.ipynb               # Legacy main strategy
-├── 📓 MediumLongHybrid.ipynb      # Long-term strategy
-├── 📓 Testing.ipynb               # Development and testing
-├── 📄 README.md                   # This documentation
-├── 📄 NSE.csv                     # Market reference data
-├── 📁 BacktestLogs/               # Backtesting results
-│   ├── 📄 test_backtest_log_*.txt # Formatted reports
-│   ├── 📊 backtest_detailed_*.csv # Transaction data
-│   └── 📊 portfolio_changes_*.csv # Portfolio evolution
-├── 📁 Charts/                     # Performance visualizations
-│   ├── 🖼️ *_cagr.png             # CAGR comparison charts
-│   ├── 🖼️ *_growth.png           # Growth visualization
-│   └── 🖼️ *_final.png            # Final performance charts
-└── 📁 Secrets/                    # API credentials (not in repo)
-    └── 🔐 upstox_secrets.py       # API keys and secrets
+├── 📓 StratOne.ipynb              # Main trading system
+├── 📄 README.md                   # Documentation
+├── 📁 BacktestLogs/               # Generated backtest results
+├── 📁 Charts/                     # Generated performance charts
+└── 📁 Secrets/                    # Your API credentials (create this)
+    └── 🔐 upstox_secrets.py       # API keys (you create this file)
 ```
 
-### 📋 **File Descriptions**
+### 🎯 **Key Files**:
+- **`StratOne.ipynb`**: The main algorithm - start here!
+- **`.env` or `secrets.py`**: The file which contains your credentials
+## ⚠️ Disclaimer
 
-#### **Core Notebooks**:
-- **`StratOne.ipynb`**: Current main system with all latest features
-- **`trading.ipynb`**: Original implementation (legacy)
-- **`MediumLongHybrid.ipynb`**: Alternative long-term strategy
-- **`Testing.ipynb`**: Development and experimental features
+**This is for educational and research purposes only. This is not financial advice.**
 
-#### **Data Files**:
-- **`NSE.csv`**: Reference data for NSE stocks
-- **`BacktestLogs/`**: All backtesting results and transaction logs
-- **`Charts/`**: Generated performance visualization images
+- 📚 **Educational Tool**: Learn algorithmic trading concepts
+- 🧪 **Research Only**: Backtest and analyze your own strategies
+- ⚠️ **Risk Warning**: Trading involves substantial risk of loss
+- 🚫 **No Guarantees**: Past performance ≠ future results
 
-#### **Configuration**:
-- **`Secrets/upstox_secrets.py`**: API credentials (create manually)
+**Use at your own risk. Always do your own research.**
 
-## 📄 License & Disclaimer
+## 🤝 Contributing
 
-### ⚖️ **Legal Disclaimer**
+Feel free to:
+- 🐛 Report bugs
+- 💡 Suggest improvements  
+- 🔧 Submit pull requests
+- ⭐ Star the repo if you find it useful!
 
-**IMPORTANT**: This system is for educational and research purposes only. 
-
-- ❌ **Not Financial Advice**: This system does not provide financial advice
-- ❌ **No Trading Recommendations**: Results are for backtesting only
-- ❌ **Risk Warning**: Trading involves substantial risk of loss
-- ❌ **No Guarantees**: Past performance does not guarantee future results
-
-### 🔒 **Usage Terms**
-
-- ✅ Use at your own risk
-- ✅ Conduct thorough testing before any live trading
-- ✅ Comply with local financial regulations
-- ✅ Respect API terms of service
+Currently, I'm working on adding smart stop loss methods in this. Feel free to reach out with suggestions!
 
 ---
 
-**Last Updated**: September 2025  
-**Version**: 3.0  
-**System**: StratOne.ipynb (Current Implementation) 
+**Open Source Algorithmic Trading System**  
+**Made with ❤️ for the trading community** 
