@@ -212,7 +212,7 @@ The system uses intelligent rebalancing to minimize unnecessary transactions:
 
 ### 🏆 **Historical Backtesting Results**
 
-Based on actual backtesting logs in `BacktestLogs/` directory:
+Based on my personal backtesting logs using this strategy:
 
 #### **Recent 5-Year Backtest (2020-2025)**
 - **Initial Investment**: ₹100,000
