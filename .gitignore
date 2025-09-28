@@ -2,4 +2,6 @@ Secrets
 BacktestLogs
 Charts
 __pycache__
+.gitignore
+.DS_Store
 Strat Testing.ipynb
