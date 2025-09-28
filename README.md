@@ -225,24 +225,12 @@ Based on my personal backtesting logs using this strategy:
 - **CAGR**: 23.06%
 
 #### **Strategy Performance Characteristics**
+
+These are based on backtesting logs.
+
 - **Volatility**: Moderate to high (momentum-based)
 - **Sharpe Ratio**: Estimated 1.2-1.8 (based on returns)
 - **Average Holding Period**: 2-4 weeks per stock
-
-### 📊 **Performance Attribution**
-
-#### **Top Performing Stocks** (Frequently in top 10):
-1. **ADANIGREEN**: Renewable energy momentum
-2. **ZOMATO**: Growth stock with high volatility
-3. **TRENT**: Retail sector outperformer
-4. **INDIGO**: Aviation recovery plays
-5. **RELIANCE**: Consistent large-cap performer
-
-#### **Sector Performance**:
-- **Technology**: INFY showing consistent performance
-- **Banking**: HDFCBANK, AXISBANK rotating in/out
-- **Energy**: ADANIPOWER, TATAPOWER momentum plays
-- **Consumer**: MARUTI, COLPAL defensive positions
 
 ## 🔑 API Setup Guide
 
