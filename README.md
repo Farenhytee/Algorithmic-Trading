@@ -226,7 +226,7 @@ Based on my personal backtesting logs using this strategy:
 
 #### **Strategy Performance Characteristics**
 
-These are based on backtesting logs.
+These are based on my backtesting logs.
 
 - **Volatility**: Moderate to high (momentum-based)
 - **Sharpe Ratio**: Estimated 1.2-1.8 (based on returns)
